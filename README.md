@@ -1,4 +1,4 @@
-My Python Learning Journey 🐍
+# My Python Learning Journey 🐍
 
 Welcome to my personal repository where I document my path to becoming proficient in Python.
 This repository will include code, notes, and projects I develop along the way. Feel free to explore, learn, and contribute!
